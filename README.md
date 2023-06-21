@@ -1,3 +1,3 @@
 🌱
 
-__hello world!__ my name is michelle, i code stuff!
+__hello world!__ my name is michelle :)
